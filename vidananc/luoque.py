@@ -1,4 +1,4 @@
 import json
-with open('luoque.json', 'r') as f:
-    dict = json.load(f)
-    print(dict['luoque'])
+with open('luoque.json', 'r', encoding='utf-8') as f:
+    d = json.load(f)
+    print(d['luoque'])
