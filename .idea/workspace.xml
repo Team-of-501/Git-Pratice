@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="216ee7cb-063f-4e3a-ac17-6c65751cd6c9" name="变更" comment="" />
+    <list default="true" id="216ee7cb-063f-4e3a-ac17-6c65751cd6c9" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/mryan/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/mryan/client.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,16 +20,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件" value="PLAIN_TEXT" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Code/IntermediateCode" />
-    <property name="project.structure.last.edited" value="SDK" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/gitbox/Git-Pratice",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="未命名" type="JarApplication" nameIsGenerated="true">
       <option name="WORKING_DIRECTORY" value="D:\ToolSoftware\GitCode\Git-Pratice" />
@@ -44,8 +46,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677413729016</updated>
+      <workItem from="1677418985948" duration="96000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.py" />
