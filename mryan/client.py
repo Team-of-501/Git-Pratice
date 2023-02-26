@@ -13,5 +13,4 @@ while True:
     socket_client.send(msg.encode("UTF-8"))
     recv_data = socket_client.recv(1024).decode("UTF-8")
     print(recv_data)
-        
 socket_client.close()
